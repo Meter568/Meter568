@@ -4,8 +4,9 @@ I’m studying **Full Stack Development**, focusing on both frontend and backend
 
 ### Top Technologies
 
-![React Badge](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&labelColor=black&color=%2361DAFB)
+![HTML Badge](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=javascript&labelColor=black&color=%23F7DF1E)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&labelColor=black&color=%23F7DF1E)
+![React Badge](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&labelColor=black&color=%2361DAFB)
 
 ### GitHub Stats
 
